@@ -1,0 +1,253 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('NewFolder1/blue chicken.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.main-nav {
+    width: 200px;
+    height: auto;
+}
+
+    .main-nav a {
+        text-decoration: none;
+        font-size: 28px;
+        font-family: Verdana;
+        font-weight: bold;
+        width: 100%;
+        height: 90px;
+        margin: 5px 0;
+        display: inline-block;
+        background-color: brown;
+        color: antiquewhite;
+        line-height: 90px;
+        text-align: center;
+    }
+
+a:active {
+    background-color: antiquewhite;
+    color: brown;
+}
+
+a:hover {
+    background-color: antiquewhite;
+    color: brown;
+    width: 100%;
+}
+
+.Name {
+    color: antiquewhite;
+    font-size: 40px;
+    font-family: Verdana;
+    font-weight: bold;
+    width: 100%;
+    height: 90px;
+    margin-right: 0;
+    margin-bottom: 0;
+    position: absolute;
+    text-align: right;
+}
+
+.Brief {
+    position: absolute;
+    color: brown;
+    font-size: 15px;
+    font-family: Verdana;
+    font-weight: bold;
+    width: 100%;
+    height: 20px;
+    margin-right: 0;
+    text-align: right;
+    margin-bottom: 0;
+}
+.aboutMe {
+    background-image: url('NewFolder1/roller skates.jpg');
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+/*.nav a {
+    margin-top: 0;
+    width: 200px;
+    height: auto;
+}
+
+.nav a {
+    
+    display: inline-block;
+    background-color: darkblue;
+    color: aliceblue;
+    line-height: 90px;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Book Antiqua';
+    font-weight: bold;
+    width: 100%;
+    height: 90px;
+}
+ .nav a:active {
+        background-color: aliceblue;
+        color: darkblue;
+        width: 200px;
+        height: auto;*/
+    /*}*/
+.Where {
+    background-color:darkblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    text-align: center;
+    color: aquamarine;
+    font-size: 80px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 30px;
+  
+}
+
+.email {
+    display: inline-block;
+    background-color: darkblue;
+    color: aliceblue;
+    line-height: 90px;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Book Antiqua';
+    font-weight: bold;
+    width: 100%;
+    height: 90px;
+}
+
+.link {
+    display: inline-block;
+    background-color: darkblue;
+    color: aliceblue;
+    line-height: 90px;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Book Antiqua';
+    font-weight: bold;
+    width: 100%;
+    height: 90px;
+}
+.What {
+    
+    position: absolute;
+    color: aquamarine;
+    font-size: 80px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 30px;
+    margin-left: 0;
+    text-align: center;
+    margin-bottom: 0;
+}
+.details {
+    padding-left: 20px;
+    padding-right: 60px;
+    margin: 0;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 15px;
+    text-align: center;
+    padding-right: 10px;
+}
+.portal {
+    display: inline-block;
+    background-color: darkblue;
+    color: aliceblue;
+    line-height: 90px;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Book Antiqua';
+    font-weight: bold;
+    width: 100%;
+    height: 90px;
+}
+.menu {
+    background-color:darkblue;
+    color:aliceblue;
+    width: 200px;
+    height: auto;
+  
+}
+.about {
+    background-color: darkblue;
+    color: aliceblue;
+    width: 200px;
+    height: auto;
+}
+.port {
+    background-color: darkblue;
+    color: aliceblue;
+    width: 200px;
+    height: auto;
+}
+.allPortfolio {
+    background-image: url('NewFolder1/Oldmission (24).png');
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+.present {
+    position: absolute;
+    color:dodgerblue;
+    font-size: 80px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 30px;
+    margin-left: 0;
+    text-align: center;
+    margin-bottom: 0;
+}
+.facts {
+    padding-left: 20px;
+    padding-right: 60px;
+    margin: 0;
+    color:blue;
+    font-size: 40px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 15px;
+    text-align: center;
+  
+}
+.future {
+    position: absolute;
+    color:black;
+    font-size: 80px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 30px;
+    margin-left: 0;
+    text-align: center;
+  margin-bottom: 0;
+}
+.moreFacts {
+    padding-left: 20px;
+    padding-right: 60px;
+    margin: 0;
+    color:black;
+    font-size: 40px;
+    font-family: 'Book Antiqua';
+    font-weight: 500;
+    width: 100%;
+    height: 15px;
+    text-align: center;
+    padding-right: 10px;
+}
+
